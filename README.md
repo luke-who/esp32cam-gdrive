@@ -1,8 +1,8 @@
 # Smart Water Meter Measuring with ESP32-CAM & Google Drive
 
 <p align="center">
-    <a href="https://github.com/luke-who/esp32cam-gdrive/blob/5cb4bbdc4439a34218a984d89207182b9c5e65a7/assets/esp32-cam.drawio.svg">
-        <img src="https://github.com/luke-who/esp32cam-gdrive/blob/5cb4bbdc4439a34218a984d89207182b9c5e65a7/assets/esp32-cam.drawio.svg" width = 700/ height=auto>
+    <a href="assets/esp32-cam.drawio.svg">
+        <img src="assets/esp32-cam.drawio.svg" width = 700/ height=auto>
     </a>
 </p>
 
