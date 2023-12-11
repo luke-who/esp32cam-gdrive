@@ -1,4 +1,4 @@
-# Power Efficient Smart Water Meter Measuring with ESP32-CAM & Google Drive
+# Power Efficient Smart Water Meter Measuring with ESP32-CAM, Google Apps Script and Google Drive
 
 <p align="center">
     <a href="assets/esp32-cam.drawio.svg">
