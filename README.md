@@ -27,4 +27,4 @@ In deep sleep mode, the chip consumes anywhere between 0.15 mA (when the ULP cop
 
 # Reference
 1. Inspired by [gsampallo/esp32cam-gdrive](https://github.com/gsampallo/esp32cam-gdrive)
-2. [ESP32 Series Datasheet](https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf)https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf)
+2. [ESP32 Series Datasheet](https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf)https://www.espressif.com/sites/default/files/documentation/esp32_datasheet_en.pdf
